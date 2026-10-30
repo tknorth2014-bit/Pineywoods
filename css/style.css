@@ -234,7 +234,7 @@ svg.icon { width: 1em; height: 1em; flex: none; stroke: currentColor; fill: none
 .divider-trees img { width: 40px; }
 .tree-bg {
   background-color: var(--green-800);
-  background-image: linear-gradient(rgba(11,33,23,.82), rgba(11,33,23,.92)), url("../images/sunset-truck.jpg?v=2");
+  background-image: linear-gradient(rgba(11,33,23,.82), rgba(11,33,23,.92)), url("../images/sunset-truck.jpg?v=3");
   background-size: cover; background-position: center 30%;
 }
 
